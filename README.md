@@ -12,6 +12,5 @@
 3. 工具
    - Android：http://t.cn/E9Zov65
    - iOS：http://t.cn/E9ZSImM
-
-4.其它
+4. 其它
    - https://jsproxy.ga/ 在线代理 可直接输被屏蔽的网址
